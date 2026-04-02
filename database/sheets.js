@@ -4,14 +4,14 @@ const sheets = {
     company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/12so3o5nh4KDC2tqb57qudFWtb8T8gKHMjufNi-x88Ik/edit#gid=204054895",
     script: "https://script.google.com/d/16nGw4N35QQy3zivoV9Ya3EzF2StmEK2kWQ8TtyS-OLSHyy11Yc2kIGoh/edit",
-    icon: "../database/icons/GOODS RS.gif"
+    icon: "../database/icons/Goods RS.gif"
   },
   gpo_bs: {
     name: "GPO (B.S.Retails)",
     company: "B.S.GROUP",
     url: "https://docs.google.com/spreadsheets/d/1_MxFVONbx1lx5bQSrtMrGz4_GZONPJlyUNb_LaX4L6o/edit#gid=785912789",
     script: "https://script.google.com/d/1__0MZWlKoeJv5oFr875dnKWam9rvEvnMTXFIq4U58a9Q1NzYYVK0-hfA/edit",
-    icon: "../database/icons/GOODS BS.gif"
+    icon: "../database/icons/Goods BS.gif"
   },
   cn_fms_rs: {
     name: "CN FMS (R.S.Trade)",
