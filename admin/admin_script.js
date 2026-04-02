@@ -3,7 +3,7 @@
 // Get current user
 const currentUserKey = localStorage.getItem("currentUser");
 if (!currentUserKey || !users[currentUserKey]) {
-  window.location.href = "login.html"; // adjust if login.html is in another folder
+  window.location.href = "index.html"; // adjust if login.html is in another folder
 }
 const currentUser = users[currentUserKey];
 
