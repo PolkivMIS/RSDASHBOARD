@@ -129,3 +129,15 @@ function resetIdle() {
 window.onload = resetIdle;
 document.onmousemove = resetIdle;
 document.onkeypress = resetIdle;
+
+
+//🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
+document.getElementById("openNewTab").onclick = () => {
+  const url = mainFrame.src;
+  if (url) {
+    window.open(url, "_blank");
+  } else {
+    alert("No sheet or form loaded yet.");
+  }
+};
+//🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗
