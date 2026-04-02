@@ -97,6 +97,25 @@
   margin-top: 0; /* ✅ remove extra gap above role */
 }
 
+/* Open in new tab button */
+#openNewTab {
+  background: #3498db;          /* blue to distinguish from logout */
+  border: none;
+  color: #fff;
+  padding: 8px 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  margin-right: 10px;           /* small gap before logout */
+  font-size: 14px;
+  display: flex;                /* align symbol + text */
+  align-items: center;
+  gap: 6px;                     /* space between symbol and text */
+}
+#openNewTab:hover {
+  background: #2c80b4;
+}
+
 #logout {
   background: #e74c3c;
   border: none;
@@ -247,7 +266,6 @@
 .sidebar button:active {
   padding-bottom: 10px;
 }
-
 
 /* Content iframe */
 .content {
