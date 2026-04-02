@@ -33,7 +33,7 @@ const roles = {
     forms: ["leave_form"]
   },
   operation_1: {
-    sheets: ["gpo_bs","assigned_task_rs","leave_advance"],
+    sheets: ["gpo_bs","store_repair","collection_data","assigned_task_rs","leave_advance"],
     forms: ["leave_form"]
   },
   operation_3: {
