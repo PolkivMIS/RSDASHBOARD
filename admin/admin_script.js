@@ -114,7 +114,7 @@ if (companybar.querySelector("button")) {
 // Logout
 document.getElementById("logout").onclick = () => {
   localStorage.removeItem("currentUser");
-  window.location.href = "../login.html"; // adjust path if needed
+  window.location.href = "../index.html"; // adjust path if needed
 };
 
 // Idle detection
