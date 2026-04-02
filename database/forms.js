@@ -30,7 +30,7 @@ const forms = {
   store_leave_form: {
     name: "STORE LEAVE Form",
     company: "B.S.GROUP",
-    url: "https://docs.google.com/forms/d/1FAIpQLScLsy-Cv6CvYXdWlb6wIjmeaEpkkraMVGXXDD-po5-1N9XcZA/viewform?embedded=true",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLScLsy-Cv6CvYXdWlb6wIjmeaEpkkraMVGXXDD-po5-1N9XcZA/viewform?usp=dialog",
     script: "https://docs.google.com/forms/d/1FAIpQLScLsy-Cv6CvYXdWlb6wIjmeaEpkkraMVGXXDD-po5-1N9XcZA/edit",
     icon: "../database/icons/FORM.gif"
   },
