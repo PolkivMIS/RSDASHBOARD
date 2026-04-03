@@ -4,14 +4,14 @@ const sheets = {
     company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/12so3o5nh4KDC2tqb57qudFWtb8T8gKHMjufNi-x88Ik/edit#gid=204054895",
     script: "https://script.google.com/d/16nGw4N35QQy3zivoV9Ya3EzF2StmEK2kWQ8TtyS-OLSHyy11Yc2kIGoh/edit",
-    icon: "../database/icons/Goods RS.gif"
+    icon: "../database/icons/GOODS RS.gif"
   },
   gpo_bs: {
     name: "GPO (B.S.Retails)",
     company: "B.S.GROUP",
     url: "https://docs.google.com/spreadsheets/d/1_MxFVONbx1lx5bQSrtMrGz4_GZONPJlyUNb_LaX4L6o/edit#gid=785912789",
     script: "https://script.google.com/d/1__0MZWlKoeJv5oFr875dnKWam9rvEvnMTXFIq4U58a9Q1NzYYVK0-hfA/edit",
-    icon: "../database/icons/Goods BS.gif"
+    icon: "../database/icons/GOODS BS.gif"
   },
   cn_fms_rs: {
     name: "CN FMS (R.S.Trade)",
@@ -58,7 +58,7 @@ const sheets = {
   shop_in_shop: {
     name: "SHOP-in-SHOP",
     company: "B.S.GROUP",
-    url: "https://docs.google.com/spreadsheets/d/1qUB7gJz8__HBnCTNTzuCbgzNTxkYYPQO74YA5gh2l7E/edit#gid=2062403752",
+    url: "../HTML/shop_in_shop.html",
     script: "https://script.google.com/d/1rKY3V1arEumytaloPjVWsdvyzE7FjZ2Jqr-GQGdFTIPw2zVT8o3yadva/edit",
     icon: "../database/icons/SHOP.gif"
   },
@@ -92,14 +92,14 @@ const sheets = {
     icon: "../database/icons/DELEGATION.gif"
   },
   checklist_rs: {
-    name: "OPERATION CHECKLIST (RS)",
+    name: "OPERATION CHECKLIST",
     company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/1byeM1rkUkeFAq_VgqQQuOr_lzPBmLY52LiE7PshpkjA/edit#gid=1905609983",
     script: "https://script.google.com/d/1f3LO-QtySEHZKPvgMXGujo62jkyp0voxzkQEQtRr6TK3ab4Hk1L1bYpw/edit",
     icon: "../database/icons/CHECKLIST.gif"
   },
   assigned_task_rs: {
-    name: "ASSIGNED TASK (RS)",
+    name: "ASSIGNED TASK",
     company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/1YEV6GtAV1o656v29Mt5Pi29dnkz99a3HIK9I5-9AwBc/edit#gid=26773441",
     script: "https://script.google.com/d/1I6p5nDNYm4X-EB87TLz-lOEm5wKGByhK3aVyVIH6Hc9rDcDIbYEt62ed/edit",
