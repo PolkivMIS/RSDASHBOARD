@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shop-in-Shop Reports</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      margin: 0;
+      background: #f0f4f8;
+      color: #333;
+    }
+
+    .year-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      padding: 8px;
+      background: linear-gradient(90deg, #0b7ef0, #010510);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+
+    .year-tabs button {
+      padding: 6px 12px;
+      border: none;
+      border-radius: 20px;
+      background: linear-gradient(135deg, #6fbeff, #ff6ada);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    .year-tabs button:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    }
+
+    .year-tabs button.active {
+      background: linear-gradient(135deg, #ff9800, #ffc107);
+      color: #fff;
+      box-shadow: 0 4px 10px rgba(255, 152, 0, 0.6);
+    }
+
+    iframe {
+      width: 100%;
+      height: calc(100vh - 45px);
+      border: none;
+      display: block;
+      background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="year-tabs">
+    <button data-url="https://docs.google.com/spreadsheets/d/1qUB7gJz8__HBnCTNTzuCbgzNTxkYYPQO74YA5gh2l7E/edit?gid=2062403752#gid=2062403752">2025-26</button>
+    <button data-url="https://docs.google.com/spreadsheets/d/1EyXL6dItYj_XzISxvl4LOJjtxe4EBY3sddCee0RvKPU/edit?gid=371069245#gid=371069245">2026-27</button>
+    <button data-url="https://docs.google.com/spreadsheets/d/...2026">2027-28</button>
+  </div>
+
+  <iframe id="shopFrame"></iframe>
+
+  <script>
+    const tabs = document.querySelectorAll(".year-tabs button");
+    const frame = document.getElementById("shopFrame");
+    let currentUrl = "";
+
+    tabs.forEach(btn => {
+      btn.addEventListener("click", () => {
+        tabs.forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        frame.src = btn.dataset.url;
+        currentUrl = btn.dataset.url;
+      });
+    });
+
+    // Auto-load first tab
+    tabs[0].click();
+
+    // Expose function for parent dashboard to fetch current sheet URL
+    window.getCurrentShopUrl = function() {
+      return currentUrl;
+    };
+  </script>
+</body>
+</html>
