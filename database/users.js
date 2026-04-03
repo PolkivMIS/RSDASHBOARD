@@ -16,7 +16,7 @@ const users = {
   umesh_singh: {
     name: "UMESH SINGH",
     designation: "SALES MANAGER",
-    pic: "images/umesh.png",
+    pic: "../database/image/UMESH.jpg",
     roleKey: "sales_manager",
     assignedTaskGid: "0"
   },
