@@ -2,7 +2,7 @@ const users = {
   issu_agarwal: {
     name: "ISSU AGARWAL",
     designation: "ADMIN",
-    pic: "images/issu.png",
+    pic: "../database/image/ISSU SIR.jpg",
     roleKey: "admin",
     assignedTaskGid: "0"   // 👈 replace with Issu’s gid
   },
@@ -23,84 +23,84 @@ const users = {
   polkiv_saikia: {
     name: "POLKIV SAIKIA",
     designation: "ADMIN",
-    pic: "../images/REPAIR.jpg",
+    pic: "../database/image/POLKIV.jpg",
     roleKey: "admin",
     assignedTaskGid: "26773441"
   },
   deepshikha_phukan: {
     name: "DEEPSHIKHA PHUKAN",
     designation: "EXECUTIVE ASSISTANT",
-    pic: "images/deepshikha.png",
+    pic: "../database/image/DEEPSHIKHA.jpg",
     roleKey: "executive_assistant",
     assignedTaskGid: "0"
   },
   luna_nath: {
     name: "LUNA NATH",
     designation: "PROCESS COORDINATOR",
-    pic: "images/luna.png",
+    pic: "../database/image/LUNA.jpg",
     roleKey: "process_coordinator_RS",
     assignedTaskGid: "815517247"
   },
   banashri_saikia: {
     name: "BANASHRI SAIKIA",
     designation: "PROCESS COORDINATOR",
-    pic: "images/banashri.png",
+    pic: "../database/image/BANASHRI.jpg",
     roleKey: "process_coordinator_MEGHA",
     assignedTaskGid: "958574416"
   },
   anjali_mandal: {
     name: "ANJALI MANDAL",
     designation: "JUNIOR ACCOUNTANT",
-    pic: "images/anjali.png",
+    pic: "../database/image/ANJALI.jpg",
     roleKey: "junior_accountant_RS",
     assignedTaskGid: "1760952715"
   },
   sanjay_thakur: {
     name: "SANJAY THAKUR",
     designation: "SENIOR ACCOUNTANT",
-    pic: "images/sanjay.png",
+    pic: "../database/image/SANJAY THAKUR.jpg",
     roleKey: "senior_accountant",
     assignedTaskGid: "970823238"
   },
   ankit_karhar: {
     name: "ANKIT KARHAR",
     designation: "MIS",
-    pic: "images/ankit.png",
+    pic: "../database/image/ANKIT.jpg",
     roleKey: "mis",
     assignedTaskGid: "304268364"
   },
   subhajit_chakraborty: {
     name: "SUBHAJIT CHAKRABORTY",
     designation: "OPERATION",
-    pic: "images/subhajit.png",
+    pic: "../database/image/SUBHAJIT.jpg",
     roleKey: "operation_1",
     assignedTaskGid: "1612750775"
   },
   monmoy_sen: {
     name: "MONMOY SEN",
     designation: "OPERATION",
-    pic: "images/monmoy.png",
+    pic: "../database/image/MONMOY.jpg",
     roleKey: "operation_2",
     assignedTaskGid: "1323910544"
   },
   sumi_dutta: {
     name: "SUMI DUTTA",
     designation: "JUNIOR ACCOUNTANT",
-    pic: "images/sumi.png",
+    pic: "../database/image/SUMI.jpg",
     roleKey: "junior_accountant_BS",
     assignedTaskGid: "254449464"
   },
   jyoti_roy: {
     name: "JYOTI ROY",
     designation: "OPERATION",
-    pic: "images/jyoti.png",
+    pic: "../database/image/JYOTI.jpg",
     roleKey: "operation_3",
     assignedTaskGid: "519441682"
   },
   shilpi_mallik: {
     name: "SHILPI MALLIK",
     designation: "BILLING",
-    pic: "images/shilpi.png",
+    pic: "../database/image/SHILPI.jpg",
     roleKey: "billing",
     assignedTaskGid: "463135580"
   },
