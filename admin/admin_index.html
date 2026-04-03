@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="admin_style.css">
+</head>
+<body>
+  <!-- Top Bar -->
+  <div class="topbar">
+    <!-- Logo -->
+    <div class="logo">
+      <img src="../images/RS.jpg" alt="Logo">
+    </div>
+
+    <!-- Topbar content -->
+    <div class="topbar-content">
+      <!-- Header row -->
+      <div class="topbar-header">
+        <div class="title">DASHBOARD</div>
+        <div class="topbar-right">
+          <div class="user-info">
+            <img id="user-pic" src="" alt="User Picture">
+            <div class="user-details">
+              <span id="user-name"></span><br>
+              <span id="user-role"></span>
+            </div>
+          </div>
+          <button id="openNewTab">🔗</button>
+          <button id="logout">LOGOUT</button>
+        </div>
+      </div>
+
+      <!-- Company Bar inside Topbar -->
+      <div class="companybar" id="companybar"></div>
+    </div>
+  </div>
+
+  <!-- Main Layout -->
+  <div class="layout">
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar"></div>
+
+    <!-- Content area -->
+    <div class="content">
+      <iframe id="mainFrame" src="" frameborder="0"></iframe>
+    </div>
+  </div>
+
+  <!-- Load database scripts first -->
+  <script src="../database/sheets.js"></script>
+  <script src="../database/forms.js"></script>
+  <script src="../database/users.js"></script>
+  <script src="../database/roles.js"></script>
+  <!-- Then load dashboard logic -->
+  <script src="admin_script.js"></script>
+</body>
+</html>
