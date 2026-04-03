@@ -9,7 +9,7 @@ const users = {
   nishant_agarwal: {
     name: "NISHANT AGARWAL",
     designation: "MANAGER",
-    pic: "images/nishant.png",
+    pic: "../database/image/NISHANT.jpg",
     roleKey: "manager",
     assignedTaskGid: "0"   // 👈 Nishant’s gid
   },
