@@ -76,6 +76,13 @@ const forms = {
     script: "https://docs.google.com/forms/d/1SCBD2boj3Szn0i9sNynRwY7P5F6BDInno40kKj2ksXs/edit",
     icon: "../database/icons/FORM.gif"
   },
+  recruitment_form: {
+    name: "RECRUITMENT FORM",
+    company: "OTHERS",
+    url: "https://docs.google.com/forms/d/1FAIpQLSejLf1E-Ff5ssRxGgAxpnzOK7iz2UMX5Mr3YKFjHr8H9A3eig/viewform?embedded=true",
+    script: "https://docs.google.com/forms/d/1FAIpQLSejLf1E-Ff5ssRxGgAxpnzOK7iz2UMX5Mr3YKFjHr8H9A3eig/edit",
+    icon: "../database/icons/FORM.gif"
+  },
   travel_expense_form: {
     name: "TRAVEL EXPENSE Form",
     company: "B.S.GROUP",
