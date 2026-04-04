@@ -81,7 +81,7 @@ const forms = {
     company: "OTHERS",
     url: "https://docs.google.com/forms/d/1FAIpQLSejLf1E-Ff5ssRxGgAxpnzOK7iz2UMX5Mr3YKFjHr8H9A3eig/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1FAIpQLSejLf1E-Ff5ssRxGgAxpnzOK7iz2UMX5Mr3YKFjHr8H9A3eig/edit",
-    icon: "../database/icons/FORM.gif"
+    icon: "../database/icons/HIRING.gif"
   },
   travel_expense_form: {
     name: "TRAVEL EXPENSE Form",
