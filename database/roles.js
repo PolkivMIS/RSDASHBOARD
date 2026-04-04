@@ -58,7 +58,7 @@ const roles = {
   },
   store_manager: {
     sheets: ["assigned_task_rs"],
-    forms: ["store_leave_form","store_repair_form","recruitment_form"]
+    forms: ["store_leave_form","store_repair_form"]
   },
   test_role: {
     sheets: [],
