@@ -9,7 +9,7 @@ const roles = {
     forms: ["leave_form","delegation_form","ne_fnb_expense_form","recruitment_form"]
   },
   process_coordinator_RS: {
-    sheets: ["gpo_rs","gpo_bs","cn_fms_rs","collection_data","sales_master","travel_expense","shop_in_shop","daily_sales","store_attendance","billwise","checklist_rs","assigned_task_rs"],
+    sheets: ["gpo_rs","gpo_bs","store_repair","cn_fms_rs","collection_data","sales_master","travel_expense","shop_in_shop","daily_sales","store_attendance","billwise","checklist_rs","assigned_task_rs"],
     forms: ["leave_form"]
   },
   process_coordinator_MEGHA: {
