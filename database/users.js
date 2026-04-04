@@ -109,42 +109,42 @@ const users = {
   killer_guwahati_club: {
     name: "KILLER - GUWAHATI CLUB",
     designation: "STORE MANAGER",
-    pic: "images/killer_guwahati.png",
+    pic: "../database/image/KILLER.jpg",
     roleKey: "store_manager",
     assignedTaskGid: "435548442"
   },
   killer_roodraksha: {
     name: "KILLER ROODRAKSHA",
     designation: "STORE MANAGER",
-    pic: "images/killer_roodraksha.png",
+    pic: "../database/image/KILLER.jpg",
     roleKey: "store_manager",
     assignedTaskGid: "1168883551"
   },
   killer_central_mall: {
     name: "KILLER - CENTRAL MALL",
     designation: "STORE MANAGER",
-    pic: "images/killer_central.png",
+    pic: "../database/image/KILLER.jpg",
     roleKey: "store_manager",
     assignedTaskGid: "1307205241"
   },
   pepe_city_center: {
     name: "PEPE JEANS - CITY CENTER",
     designation: "STORE MANAGER",
-    pic: "images/pepe_city.png",
+    pic: "../database/image/PEPE JEANS.jpg",
     roleKey: "store_manager",
     assignedTaskGid: "412194518"
   },
   pepe_christian_basti: {
     name: "PEPE JEANS - CHRISTIAN BASTI",
     designation: "STORE MANAGER",
-    pic: "images/pepe_christian.png",
+    pic: "../database/image/PEPE JEANS.jpg",
     roleKey: "store_manager",
     assignedTaskGid: "2058993561"
   },
   pepe_shillong: {
     name: "PEPE JEANS - SHILLONG",
     designation: "STORE MANAGER",
-    pic: "images/pepe_shillong.png",
+    pic: "../database/image/PEPE JEANS.jpg",
     roleKey: "store_manager",
     assignedTaskGid: "2002242700"
   },
