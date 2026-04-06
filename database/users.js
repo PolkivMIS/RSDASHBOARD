@@ -62,7 +62,7 @@ const users = {
     roleKey: "senior_accountant",
     assignedTaskGid: "970823238"
   },
-  ankit_karhar: {
+  ankit_kahar: {
     name: "ANKIT KARHAR",
     designation: "MIS",
     pic: "../database/image/ANKIT.jpg",
