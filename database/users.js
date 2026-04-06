@@ -63,7 +63,7 @@ const users = {
     assignedTaskGid: "970823238"
   },
   ankit_kahar: {
-    name: "ANKIT KARHAR",
+    name: "ANKIT KAHAR",
     designation: "MIS",
     pic: "../database/image/ANKIT.jpg",
     roleKey: "mis",
