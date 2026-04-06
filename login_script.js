@@ -14,7 +14,7 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
     banashri_saikia: "coord456",
     anjali_mandal: "junior123",
     sanjay_thakur: "senior123",
-    ankit_karhar: "mis123",
+    ankit_kahar: "mis123",
     subhajit_chakraborty: "op123",
     monmoy_sen: "op456",
     sumi_dutta: "junior456",
