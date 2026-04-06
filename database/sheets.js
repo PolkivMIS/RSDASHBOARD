@@ -143,7 +143,7 @@ const sheets = {
   recruitment_fms: {
     name: "RECRUITMENT FMS",
     company: "OTHERS",
-    url: "https://docs.google.com/spreadsheets/d/1lQJMezCiV6avciA8ROVf-reIRt-7FFh8Hcx7FCgr8K4/edit?gid=0#gid=0",
+    url: "https://docs.google.com/spreadsheets/d/1lQJMezCiV6avciA8ROVf-reIRt-7FFh8Hcx7FCgr8K4/edit#gid=0",
     icon: "../database/icons/HIRING.gif"
   },
   document_database: {
