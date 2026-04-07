@@ -79,7 +79,7 @@ const forms = {
   recruitment_form: {
     name: "RECRUITMENT FORM",
     company: "OTHERS",
-    url: "https://docs.google.com/forms/d/1FAIpQLSfEQJEUwDBQaaHVDW75OGo0nMteUs-bl6Oli26PDJ55N837Tw/viewform?embedded=true",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfEQJEUwDBQaaHVDW75OGo0nMteUs-bl6Oli26PDJ55N837Tw/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1FAIpQLSfEQJEUwDBQaaHVDW75OGo0nMteUs-bl6Oli26PDJ55N837Tw/edit",
     icon: "../database/icons/HIRING.gif"
   },
