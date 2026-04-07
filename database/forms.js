@@ -79,8 +79,8 @@ const forms = {
   recruitment_form: {
     name: "RECRUITMENT FORM",
     company: "OTHERS",
-    url: "https://docs.google.com/forms/d/1FAIpQLSdJeF2rzgDg-eh6n0ZbZj82_iVZ0Ke9CPXGmTXQgKH5HWM9Vg/viewform?embedded=true",
-    script: "https://docs.google.com/forms/d/1FAIpQLSejLf1E-Ff5ssRxGgAxpnzOK7iz2UMX5Mr3YKFjHr8H9A3eig/edit",
+    url: "https://docs.google.com/forms/d/1FAIpQLSfEQJEUwDBQaaHVDW75OGo0nMteUs-bl6Oli26PDJ55N837Tw/viewform?embedded=true",
+    script: "https://docs.google.com/forms/d/1FAIpQLSfEQJEUwDBQaaHVDW75OGo0nMteUs-bl6Oli26PDJ55N837Tw/edit",
     icon: "../database/icons/HIRING.gif"
   },
   travel_expense_form: {
