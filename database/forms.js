@@ -65,8 +65,8 @@ const forms = {
   new_party_form: {
     name: "NEW PARTY Form",
     company: "B.S.GROUP",
-    url: "https://docs.google.com/forms/d/1FAIpQLSfDqonxv2ncL0OO_McIf9PtNh3Ht6OgMAKB4Hyg1wBVxW5UpA/viewform?embedded=true",
-    script: "https://docs.google.com/forms/d/1FAIpQLSfDqonxv2ncL0OO_McIf9PtNh3Ht6OgMAKB4Hyg1wBVxW5UpA/edit",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfDqonxv2ncL0OO_McIf9PtNh3Ht6OgMAKB4Hyg1wBVxW5UpA/viewform?embedded=true",
+    script: "https://docs.google.com/forms/d/e/1FAIpQLSfDqonxv2ncL0OO_McIf9PtNh3Ht6OgMAKB4Hyg1wBVxW5UpA/viewform?usp=dialog",
     icon: "../database/icons/FORM.gif"
   },
   ne_fnb_expense_form: {
