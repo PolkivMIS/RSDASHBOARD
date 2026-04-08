@@ -16,7 +16,7 @@ const forms = {
   store_repair_form: {
     name: "STORE REPAIR Form",
     company: "B.S.GROUP",
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSdJeF2rzgDg-eh6n0ZbZj82_iVZ0Ke9CPXGmTXQgKH5HWM9Vg/viewform?usp=dialog",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdJeF2rzgDg-eh6n0ZbZj82_iVZ0Ke9CPXGmTXQgKH5HWM9Vg/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1FAIpQLSdJeF2rzgDg-eh6n0ZbZj82_iVZ0Ke9CPXGmTXQgKH5HWM9Vg/edit",
     icon: "../database/icons/FORM.gif"
   },
