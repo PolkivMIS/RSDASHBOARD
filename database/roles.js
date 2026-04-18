@@ -60,8 +60,12 @@ const roles = {
     sheets: ["assigned_task_rs","store_repair"],
     forms: ["store_leave_form","store_repair_form"]
   },
-  test_role: {
+  pent_acc: {
     sheets: [],
+    forms: []
+  },
+  test_role: {
+    sheets: ["p_operation","p_assigned_task"],
     forms: []
   }
 };
