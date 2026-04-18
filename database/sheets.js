@@ -181,5 +181,29 @@ const sheets = {
     company: "PENTAGON",
     url: "https://docs.google.com/spreadsheets/d/15Fnuj4IGn9fsI5ecQ_varBFLxIlvC_5Opbtnux2p06Q/edit?gid=378801912#gid=378801912",
     icon: "../database/icons/ASSIGN_TASK.gif"
+  },
+  placeholder1: {
+    name: "PLACEHOLDER",
+    company: "PENTAGON",
+    url: "https://docs.google.com/spreadsheets/d/15Fnuj4IGn9fsI5ecQ_varBFLxIlvC_5Opbtnux2p06Q1/edit?gid=378801912#gid=378801912",
+    icon: "../database/icons/ASSIGN_TASK.gif"
+  },
+  placeholder2: {
+    name: "PLACEHOLDER",
+    company: "PENTAGON",
+    url: "https://docs.google.com/spreadsheets/d/15Fnuj4IGn9fsI5ecQ_varBFLxIlvC_5Opbtnux2p06Q1/edit?gid=378801912#gid=378801912",
+    icon: "../database/icons/ASSIGN_TASK.gif"
+  },
+  placeholder3: {
+    name: "PLACEHOLDER",
+    company: "PENTAGON",
+    url: "https://docs.google.com/spreadsheets/d/15Fnuj4IGn9fsI5ecQ_varBFLxIlvC_5Opbtnux2p06Q1/edit?gid=378801912#gid=378801912",
+    icon: "../database/icons/ASSIGN_TASK.gif"
+  },
+  placeholder4: {
+    name: "PLACEHOLDER",
+    company: "PENTAGON",
+    url: "https://docs.google.com/spreadsheets/d/15Fnuj4IGn9fsI5ecQ_varBFLxIlvC_5Opbtnux2p06Q1/edit?gid=378801912#gid=378801912",
+    icon: "../database/icons/ASSIGN_TASK.gif"
   }
 };
