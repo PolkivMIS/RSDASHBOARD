@@ -61,7 +61,7 @@ const roles = {
     forms: ["store_leave_form","store_repair_form"]
   },
   pent_acc: {
-    sheets: ["p_operation","p_assigned_task"],
+    sheets: ["p_assigned_task"],
     forms: []
   },
   test_role: {
