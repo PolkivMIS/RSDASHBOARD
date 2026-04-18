@@ -155,7 +155,7 @@ const users = {
     designation: "ACCOUNTS",
     pic: "images/dummy1.png",
     roleKey: "pent_acc",
-    assignedTaskGid: "232323232"
+    assignedTaskGid: "378801912"
   },
   dummy_user2: {
     name: "DUMMY USER TWO",
