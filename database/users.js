@@ -150,11 +150,11 @@ const users = {
   },
 
   // Dummy users
-  dummy_user1: {
-    name: "DUMMY USER ONE",
-    designation: "TEST ROLE",
+  pent_acc: {
+    name: "PENTAGON ACCOUNTS",
+    designation: "ACCOUNTS",
     pic: "images/dummy1.png",
-    roleKey: "test_role",
+    roleKey: "pent_acc",
     assignedTaskGid: "232323232"
   },
   dummy_user2: {
