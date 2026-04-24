@@ -153,7 +153,7 @@ const users = {
   tilak_das: {
     name: "TILAK DAS",
     designation: "ACCOUNTS EXECUTIVE",
-    pic: "images/dummy1.png",
+    pic: "images/TILAK.png",
     roleKey: "pent_acc",
     assignedTaskGid: "378801912"
   },
