@@ -152,7 +152,7 @@ const users = {
   // Dummy users
   tilok_das: {
     name: "TILOK DAS",
-    designation: "ACCOUNTS",
+    designation: "ACCOUNTS EXECUTIVE",
     pic: "images/dummy1.png",
     roleKey: "pent_acc",
     assignedTaskGid: "378801912"
