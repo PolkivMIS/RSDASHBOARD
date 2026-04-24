@@ -150,7 +150,7 @@ const users = {
   },
 
   // Dummy users
-  tilok_das: {
+  tilak_das: {
     name: "TILAK DAS",
     designation: "ACCOUNTS EXECUTIVE",
     pic: "images/TILAK.jpg",
