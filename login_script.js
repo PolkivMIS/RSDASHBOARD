@@ -20,7 +20,7 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
     sumi_dutta: "junior456",
     jyoti_roy: "op789",
     shilpi_mallik: "billing123",
-    pent_acc: "acc12345",
+    tilok_das: "acc12345",
 
     // Stores
     killer_guwahati_club: "store123",
