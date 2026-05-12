@@ -42,7 +42,7 @@ const roles = {
   },
   operation_4: {
     sheets: ["gpo_bs","store_repair","daily_sales","collection_data","assigned_task_rs","leave_advance"],
-    forms: ["store_repair_form","daily_sales_form","travel_expense_form","leave_form"]
+    forms: ["store_repair_form","daily_sales_form","daily_sales_form_pepe","travel_expense_form","leave_form"]
   },
   junior_accountant_BS: {
     sheets: ["gpo_rs","assigned_task_rs","billwise"],
