@@ -63,7 +63,7 @@ const sheets = {
     icon: "../database/icons/SHOP.gif"
   },
   daily_sales: {
-    name: "DAILY SALES REPORT",
+    name: "DAILY SALES (KILLER)",
     company: "B.S.GROUP",
     url: "https://docs.google.com/spreadsheets/d/10mSGlLUMTTLEyz9HenfbavVw4tZRIZGjWKxjUya7Z4g/edit#gid=740661783",
     script: "https://script.google.com/d/13Du40rd9uv71FcgdYQc8A-NpQjd2Zk6XPT2xSRodvMOXgOvZbOuKng5G/edit",
