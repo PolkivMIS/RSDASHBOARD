@@ -40,6 +40,10 @@ const roles = {
     sheets: ["gpo_rs","shop_in_shop","assigned_task_rs"],
     forms: ["leave_form"]
   },
+  operation_4: {
+    sheets: ["gpo_bs","store_repair","daily_sales","collection_data","assigned_task_rs","leave_advance"],
+    forms: ["store_repair_form","daily_sales_form","travel_expense_form","leave_form"]
+  },
   junior_accountant_BS: {
     sheets: ["gpo_rs","assigned_task_rs","billwise"],
     forms: ["leave_form"]
