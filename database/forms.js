@@ -34,6 +34,13 @@ const forms = {
     script: "https://docs.google.com/forms/d/1FAIpQLSdZmYyvj2_O9OglMzMnV6opC5P77opOTYCyW5D3EcZPxCKf3A/edit",
     icon: "../database/icons/FORM.gif"
   },
+  daily_sales_form_puma: {
+    name: "DAILY SALES Form (PUMA)",
+    company: "B.S.GROUP",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSe7biNFzQhi-UlBXDpshJjjCV83vkVVDLTGpJ5l8wAQXPh55w/viewform?embedded=true",
+    script: "https://docs.google.com/forms/d/1FAIpQLSdZmYyvj2_O9OglMzMnV6opC5P77opOTYCyW5D3EcZPxCKf3A/edit",
+    icon: "../database/icons/FORM.gif"
+  },
   store_leave_form: {
     name: "STORE LEAVE Form",
     company: "B.S.GROUP",
