@@ -76,6 +76,13 @@ const sheets = {
     script: "https://script.google.com/d/13Du40rd9uv71FcgdYQc8A-NpQjd2Zk6XPT2xSRodvMOXgOvZbOuKng5G/edit",
     icon: "../database/icons/DAILY_SALE.gif"
   },
+  daily_sales_puma: {
+    name: "DAILY SALES REPORT (PUMA)",
+    company: "B.S.GROUP",
+    url: "https://docs.google.com/spreadsheets/d/1dz8xUFOgaLdjTCJdxOg7QZBHsP8kFYbTXWOYCu1bJC8/edit#gid=740661783",
+    script: "https://script.google.com/d/13Du40rd9uv71FcgdYQc8A-NpQjd2Zk6XPT2xSRodvMOXgOvZbOuKng5G/edit",
+    icon: "../database/icons/DAILY_SALE.gif"
+  },
   store_attendance: {
     name: "STORE ATTENDANCE",
     company: "B.S.GROUP",
