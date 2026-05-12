@@ -76,6 +76,13 @@ const users = {
     roleKey: "operation_1",
     assignedTaskGid: "1612750775"
   },
+  deep_kumar_singha: {
+    name: "DEEP KUMAR SINGHA",
+    designation: "OPERATION",
+    pic: "../database/image/DEEP.jpg",
+    roleKey: "operation_3",
+    assignedTaskGid: "1612750775"
+  },
   monmoy_sen: {
     name: "MONMOY SEN",
     designation: "OPERATION",
