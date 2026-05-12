@@ -69,6 +69,13 @@ const sheets = {
     script: "https://script.google.com/d/13Du40rd9uv71FcgdYQc8A-NpQjd2Zk6XPT2xSRodvMOXgOvZbOuKng5G/edit",
     icon: "../database/icons/DAILY_SALE.gif"
   },
+  daily_sales_pepe: {
+    name: "DAILY SALES REPORT (PEPE)",
+    company: "B.S.GROUP",
+    url: "https://docs.google.com/spreadsheets/d/10eJgHFLCtAhYwflle_vgH2I9akBOa5n-7u27Q7FOsvU/edit#gid=740661783",
+    script: "https://script.google.com/d/13Du40rd9uv71FcgdYQc8A-NpQjd2Zk6XPT2xSRodvMOXgOvZbOuKng5G/edit",
+    icon: "../database/icons/DAILY_SALE.gif"
+  },
   store_attendance: {
     name: "STORE ATTENDANCE",
     company: "B.S.GROUP",
