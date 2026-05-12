@@ -27,6 +27,13 @@ const forms = {
     script: "https://docs.google.com/forms/d/1w2haEToALZjeR-UMWx1g7TarW457oDGx9PD4b2BlRCI/edit",
     icon: "../database/icons/FORM.gif"
   },
+  daily_sales_form_pepe: {
+    name: "DAILY SALES Form (PEPE)",
+    company: "B.S.GROUP",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdZmYyvj2_O9OglMzMnV6opC5P77opOTYCyW5D3EcZPxCKf3A/viewform?embedded=true",
+    script: "https://docs.google.com/forms/d/1FAIpQLSdZmYyvj2_O9OglMzMnV6opC5P77opOTYCyW5D3EcZPxCKf3A/edit",
+    icon: "../database/icons/FORM.gif"
+  },
   store_leave_form: {
     name: "STORE LEAVE Form",
     company: "B.S.GROUP",
