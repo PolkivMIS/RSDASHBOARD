@@ -21,7 +21,7 @@ const forms = {
     icon: "../database/icons/FORM.gif"
   },
   daily_sales_form: {
-    name: "DAILY SALES Form",
+    name: "DAILY SALES Form (KILLER)",
     company: "B.S.GROUP",
     url: "https://docs.google.com/forms/d/1w2haEToALZjeR-UMWx1g7TarW457oDGx9PD4b2BlRCI/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1w2haEToALZjeR-UMWx1g7TarW457oDGx9PD4b2BlRCI/edit",
