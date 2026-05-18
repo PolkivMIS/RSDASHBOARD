@@ -5,7 +5,7 @@ const roles = {
     forms: Object.keys(forms)
   },
   executive_assistant: {
-    sheets: ["cn_fms_rs","store_repair","delegation","assigned_task_rs","leave_advance","ne_fnb_expense","recruitment_fms","document_database","employee_data_bs","all_payment_db","panditji_tracker"],
+    sheets: ["cn_fms_rs","store_repair","delegation","assigned_task_rs","travel_expense","leave_advance","ne_fnb_expense","recruitment_fms","document_database","employee_data_bs","all_payment_db","panditji_tracker"],
     forms: ["leave_form","delegation_form","ne_fnb_expense_form","recruitment_form"]
   },
   process_coordinator_RS: {
