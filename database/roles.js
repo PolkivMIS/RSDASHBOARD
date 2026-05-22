@@ -25,7 +25,7 @@ const roles = {
     forms: ["leave_form"]
   },
   mis: {
-    sheets: ["gpo_rs","collection_data","sales_master","travel_expense","assigned_task_rs","leave_advance","recruitment_fms"],
+    sheets: ["gpo_rs","collection_data","sales_master","travel_expense","assigned_task_rs","cn_fms_rs","leave_advance","recruitment_fms"],
     forms: ["leave_form","advance_form"]
   },
   operation_2: {
