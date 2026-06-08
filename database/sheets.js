@@ -197,13 +197,13 @@ const sheets = {
     icon: "../database/icons/ASSIGN_TASK.gif"
   },
   ne_operation: {
-    name: "NE FNB OPERATION CHECKLIST",
+    name: "OPERATION CHECKLIST",
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/10nS312HslsypY0WjzoUfDEYDjTlo8x8Fwl9MQ3RbbY4/edit?gid=1152502169#gid=1152502169",
     icon: "../database/icons/CHECKLIST.gif"
   },
   ne_assigned_task: {
-    name: "NE FNB ASSIGNED TASKS",
+    name: "ASSIGNED TASKS",
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/17j7fwBykaIRMEjcwgU188edLoZDKUGqHtLfOPHO1q6E/edit?gid=2042351207#gid=2042351207",
     icon: "../database/icons/ASSIGN_TASK.gif"
