@@ -199,7 +199,7 @@ const sheets = {
   ne_operation: {
     name: "OPERATION CHECKLIST",
     company: "NORTHEAST FNB",
-    url: "https://docs.google.com/spreadsheets/d/10nS312HslsypY0WjzoUfDEYDjTlo8x8Fwl9MQ3RbbY4/edit?gid=1152502169#gid=1152502169",
+    url: "https://docs.google.com/spreadsheets/d/10nS312HslsypY0WjzoUfDEYDjTlo8x8Fwl9MQ3RbbY4/edit?gid=1905609983#gid=1905609983",
     icon: "../database/icons/CHECKLIST.gif"
   },
   ne_assigned_task: {
