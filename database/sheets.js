@@ -147,6 +147,13 @@ const sheets = {
     script: "https://script.google.com/u/0/home/projects/1WFlF-agA1zwxRtCODijq5ReqSPgbzca8HTgQVmu6U3aZOIWLJNjEBbQL/edit",
     icon: "../database/icons/PRODUCTION.gif"
   },
+  production_counter_megha: {
+    name: "PRODUCTION COUNTER",
+    company: "MEGHA AGRO",
+    url: "https://docs.google.com/spreadsheets/d/1V0HpVGFkIl7Kf3MUFGzhuwkNEbvSy2w-fy6l9HjyVME/edit?gid=1265110107#gid=1265110107",
+    script: "https://script.google.com/u/0/home/projects/1LKXgBZPT0DZN9uFZ6AlZn-bBE_912PlAhnPgySlIJ4NBbFLga2AMs6iL/edit",
+    icon: "../database/icons/PRODUCTION.gif"
+  },
   ne_fnb_expense: {
     name: "NE FNB EXPENSE DATA",
     company: "NORTHEAST FNB",
