@@ -219,7 +219,7 @@ const sheets = {
     name: "MACHINARY PO",
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/1S-CkhYn1eflXjGfJZaweKZ5R_MdV1ltmahEC2v0hbZU/edit?gid=1115838130#gid=1115838130",
-    icon: "../database/icons/MACHINARY PO.gif"
+    icon: "../database/icons/MACHINARY_PO.gif"
   },
   placeholder2: {
     name: "PLACEHOLDER",
