@@ -216,10 +216,10 @@ const sheets = {
     icon: "../database/icons/ASSIGN_TASK.gif"
   },
   placeholder1: {
-    name: "PLACEHOLDER",
-    company: "PENTAGON",
-    url: "https://docs.google.com/spreadsheets/d/15Fnuj4IGn9fsI5ecQ_varBFLxIlvC_5Opbtnux2p06Q1/edit?gid=378801912#gid=378801912",
-    icon: "../database/icons/ASSIGN_TASK.gif"
+    name: "MACHINARY PO",
+    company: "NORTHEAST FNB",
+    url: "https://docs.google.com/spreadsheets/d/1S-CkhYn1eflXjGfJZaweKZ5R_MdV1ltmahEC2v0hbZU/edit?gid=1115838130#gid=1115838130",
+    icon: "../database/icons/CHECKLIST.gif"
   },
   placeholder2: {
     name: "PLACEHOLDER",
