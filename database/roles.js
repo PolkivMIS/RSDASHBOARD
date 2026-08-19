@@ -5,7 +5,7 @@ const roles = {
     forms: Object.keys(forms)
   },
   executive_assistant: {
-    sheets: ["cn_fms_rs","store_repair","delegation","assigned_task_rs","travel_expense","leave_advance","ne_fnb_expense","recruitment_fms","document_database","employee_data_bs","all_payment_db","panditji_tracker"],
+    sheets: ["cn_fms_rs","store_repair","delegation","assigned_task_rs","travel_expense","leave_advance","ne_fnb_expense","recruitment_fms","document_database","employee_data_bs","all_payment_db","machinary_po_tracker","panditji_tracker"],
     forms: ["leave_form","delegation_form","ne_fnb_expense_form","recruitment_form"]
   },
   process_coordinator_RS: {
@@ -13,7 +13,7 @@ const roles = {
     forms: ["leave_form"]
   },
   process_coordinator_MEGHA: {
-    sheets: ["assigned_task_rs","cashbook_megha","ims_megha","msl_counter_megha","production_counter_megha","p_operation","p_assigned_task","ne_operation","ne_assigned_task","machinary_po"],
+    sheets: ["assigned_task_rs","cashbook_megha","ims_megha","msl_counter_megha","production_counter_megha","p_operation","p_assigned_task","ne_operation","ne_assigned_task","machinary_po_tracker","machinary_po"],
     forms: ["leave_form"]
   },
   junior_accountant_RS: {
