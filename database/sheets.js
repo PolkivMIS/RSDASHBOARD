@@ -225,7 +225,7 @@ const sheets = {
     name: "PO TRACKER",
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/1W3PZohh_a8j_M9S9bMAIV3qZ99L4LeQGm8Yfr8WQXlE/edit?gid=1115838130#gid=1115838130",
-    icon: "../database/icons/MACHINARY_PO.gif"
+    icon: "../database/icons/PO_TRACKER.gif"
   },
   placeholder2: {
     name: "PLACEHOLDER",
