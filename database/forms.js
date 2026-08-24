@@ -103,5 +103,12 @@ const forms = {
     url: "https://docs.google.com/forms/d/1CaBQ4czBjh80RobIMK5WhTrXDNzzl5QA5k_kNjR7TJk/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1CaBQ4czBjh80RobIMK5WhTrXDNzzl5QA5k_kNjR7TJk/edit",
     icon: "../database/icons/FORM.gif"
+  },
+  gpo_ne_form: {
+    name: "GPO (NE FNB) Form",
+    company: "NORTHEAST FNB",
+    url: "https://docs.google.com/forms/d/1FAIpQLSeJcLDShNid7S-2B-r4X1Ly1SZz3VtAYZCbuE0y1MZmba8pKw/viewform?embedded=true",
+    script: "https://docs.google.com/forms/d/174eiE6n6O67skcXMnQD2Q-RzN_NQNoPb98i38hwYoV4/edit",
+    icon: "../database/icons/FORM.gif"
   }
 };
