@@ -13,6 +13,12 @@ const sheets = {
     script: "https://script.google.com/d/1__0MZWlKoeJv5oFr875dnKWam9rvEvnMTXFIq4U58a9Q1NzYYVK0-hfA/edit",
     icon: "../database/icons/Goods BS.gif"
   },
+  gpo_ne: {
+    name: "NE FNB (GPO)",
+    company: "NORTHEAST FNB",
+    url: "https://docs.google.com/spreadsheets/d/1zJCdRR_Hqr8MizsyOFsWu6B4Fv44kcG7cCkGKrcD24w/edit?gid=0#gid=0",
+    icon: "../database/icons/Goods RS.gif"
+  },
   cn_fms_rs: {
     name: "CN FMS (R.S.Trade)",
     company: "R.S.TRADE",
@@ -226,12 +232,6 @@ const sheets = {
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/1W3PZohh_a8j_M9S9bMAIV3qZ99L4LeQGm8Yfr8WQXlE/edit?gid=1115838130#gid=1115838130",
     icon: "../database/icons/PO_TRACKER.gif"
-  },
-  gpo_ne: {
-    name: "NE FNB (GPO)",
-    company: "NORTHEAST FNB",
-    url: "https://docs.google.com/spreadsheets/d/1zJCdRR_Hqr8MizsyOFsWu6B4Fv44kcG7cCkGKrcD24w/edit?gid=0#gid=0",
-    icon: "../database/icons/Goods RS.gif"
   },
   placeholder2: {
     name: "PLACEHOLDER",
