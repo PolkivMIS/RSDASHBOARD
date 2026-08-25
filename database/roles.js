@@ -14,7 +14,7 @@ const roles = {
   },
   process_coordinator_MEGHA: {
     sheets: ["gpo_ne","assigned_task_rs","cashbook_megha","ims_megha","msl_counter_megha","production_counter_megha","p_operation","p_assigned_task","ne_operation","ne_assigned_task","machinary_po_tracker","machinary_po"],
-    forms: ["leave_form","gpo_ne_form"]
+    forms: ["leave_form","gpo_ne_form","ne_fnb_expense_form"]
   },
   junior_accountant_RS: {
     sheets: ["gpo_bs","assigned_task_rs","store_expense"],
