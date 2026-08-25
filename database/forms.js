@@ -110,5 +110,12 @@ const forms = {
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeJcLDShNid7S-2B-r4X1Ly1SZz3VtAYZCbuE0y1MZmba8pKw/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/174eiE6n6O67skcXMnQD2Q-RzN_NQNoPb98i38hwYoV4/edit",
     icon: "../database/icons/FORM.gif"
+  },
+  megha_ims: {
+    name: "IMS FORM",
+    company: "NORTHEAST FNB",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfN1DZHLZzGCv5EheKminx4p9lWkVqPSOqMZi9yyWiC1QBb8A/viewform?usp=dialog",
+    script: "https://docs.google.com/forms/d/1FAIpQLSfN1DZHLZzGCv5EheKminx4p9lWkVqPSOqMZi9yyWiC1QBb8A/edit",
+    icon: "../database/icons/FORM.gif"
   }
 };
