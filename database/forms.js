@@ -113,7 +113,7 @@ const forms = {
   },
   megha_ims: {
     name: "IMS FORM",
-    company: "NORTHEAST FNB",
+    company: "MEGHA AGRO",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfN1DZHLZzGCv5EheKminx4p9lWkVqPSOqMZi9yyWiC1QBb8A/viewform?usp=dialog",
     script: "https://docs.google.com/forms/d/1FAIpQLSfN1DZHLZzGCv5EheKminx4p9lWkVqPSOqMZi9yyWiC1QBb8A/edit",
     icon: "../database/icons/FORM.gif"
