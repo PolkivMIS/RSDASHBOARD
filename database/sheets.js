@@ -14,7 +14,7 @@ const sheets = {
     icon: "../database/icons/Goods BS.gif"
   },
   gpo_ne: {
-    name: "NE FNB (GPO)",
+    name: "GPO (NE FNB)",
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/1zJCdRR_Hqr8MizsyOFsWu6B4Fv44kcG7cCkGKrcD24w/edit?gid=0#gid=0",
     icon: "../database/icons/Goods RS.gif"
