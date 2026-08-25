@@ -233,6 +233,12 @@ const sheets = {
     url: "https://docs.google.com/spreadsheets/d/1W3PZohh_a8j_M9S9bMAIV3qZ99L4LeQGm8Yfr8WQXlE/edit?gid=1115838130#gid=1115838130",
     icon: "../database/icons/PO_TRACKER.gif"
   },
+  plant_n_machinary: {
+    name: "PLANT & MACHINARY",
+    company: "NORTHEAST FNB",
+    url: "https://docs.google.com/spreadsheets/d/1M7UunmZsB5o-zpKik-MeqTU7r0Mh7yNVC_t2T5bigcU/edit?gid=456710496#gid=456710496",
+    icon: "../database/icons/PRODUCTION.gif"
+  },
   placeholder2: {
     name: "PLACEHOLDER",
     company: "PENTAGON",
