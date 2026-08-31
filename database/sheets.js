@@ -240,7 +240,7 @@ const sheets = {
     icon: "../database/icons/PRODUCTION.gif"
   },
   ne_ims: {
-    name: "INVENTORY MANAGEMENT",
+    name: "IMS (NE FNB)",
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/15PWG3ICvIYusKA6b_kF8OKxKlMQAFAP6X8sBsmtmrHo/edit?gid=1715037745#gid=1715037745",
     icon: "../database/icons/INVENTORY.gif"
