@@ -13,7 +13,7 @@ const roles = {
     forms: ["leave_form"]
   },
   process_coordinator_MEGHA: {
-    sheets: ["gpo_ne","assigned_task_rs","cashbook_megha","ims_megha","msl_counter_megha","production_counter_megha","p_operation","p_assigned_task","ne_operation","ne_assigned_task","machinary_po_tracker","machinary_po","plant_n_machinary"],
+    sheets: ["gpo_ne","assigned_task_rs","cashbook_megha","ims_megha","msl_counter_megha","production_counter_megha","p_operation","p_assigned_task","ne_operation","ne_assigned_task","machinary_po_tracker","machinary_po","plant_n_machinary","ne_ims"],
     forms: ["leave_form","gpo_ne_form","ne_fnb_expense_form"]
   },
   junior_accountant_RS: {
