@@ -239,6 +239,12 @@ const sheets = {
     url: "https://docs.google.com/spreadsheets/d/1M7UunmZsB5o-zpKik-MeqTU7r0Mh7yNVC_t2T5bigcU/edit?gid=456710496#gid=456710496",
     icon: "../database/icons/PRODUCTION.gif"
   },
+  ne_ims: {
+    name: "INVENTORY MANAGEMENT",
+    company: "NORTHEAST FNB",
+    url: "https://docs.google.com/spreadsheets/d/15PWG3ICvIYusKA6b_kF8OKxKlMQAFAP6X8sBsmtmrHo/edit?gid=1715037745#gid=1715037745",
+    icon: "../database/icons/INVENTORY.gif"
+  },
   placeholder2: {
     name: "PLACEHOLDER",
     company: "PENTAGON",
