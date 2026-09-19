@@ -12,6 +12,7 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
     deepshikha_phukan: "ea123",
     luna_nath: "coord123",
     banashri_saikia: "coord456",
+    minakshi_k_prasad: "junior123",
     anjali_mandal: "junior123",
     sanjay_thakur: "senior123",
     ankit_kahar: "mis123",
