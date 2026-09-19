@@ -60,7 +60,7 @@ const users = {
     designation: "SENIOR ACCOUNTANT",
     pic: "../database/image/SANJAY THAKUR.jpg",
     roleKey: "senior_accountant",
-    assignedTaskGid: "970823238"
+    assignedTaskGid: "1552507060"
   },
   ankit_kahar: {
     name: "ANKIT KAHAR",
