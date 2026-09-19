@@ -65,7 +65,7 @@ const users = {
   minakshi_k_prasad: {
     name: "MINAKSHI K PRASAD",
     designation: "JUNIOR ACCOUNTANT",
-    pic: "../database/image/MINAKSHI.jpg",
+    pic: "../database/image/MINAKSHI.jpeg",
     roleKey: "ne_junior_accountant",
     assignedTaskGid: "1552507060"
   },
