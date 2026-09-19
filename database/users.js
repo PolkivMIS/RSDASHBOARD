@@ -62,6 +62,13 @@ const users = {
     roleKey: "senior_accountant",
     assignedTaskGid: "1552507060"
   },
+  minakshi_k_prasad: {
+    name: "MINAKSHI K PRASAD",
+    designation: "JUNIOR ACCOUNTANT",
+    pic: "../database/image/SANJAY THAKUR.jpg",
+    roleKey: "ne_junior_accountant",
+    assignedTaskGid: "1552507060"
+  },
   ankit_kahar: {
     name: "ANKIT KAHAR",
     designation: "MIS",
