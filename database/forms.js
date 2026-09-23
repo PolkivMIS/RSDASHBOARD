@@ -72,7 +72,7 @@ const forms = {
   delegation_form: {
     name: "DELEGATION Form",
     company: "FORMS",
-    url: "https://docs.google.com/forms/d/11F1iDlRGFLdDU5aWRltPLW_97v-ZFcKE6WK_9V7nuCg/viewform?embedded=true",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSe1yK0cZ5g727gQ7qnoHDu3ZxzaPaZC9o6dG-JA5WT8boCL8w/viewform?usp=dialog",
     script: "https://docs.google.com/forms/d/11F1iDlRGFLdDU5aWRltPLW_97v-ZFcKE6WK_9V7nuCg/edit",
     icon: "../database/icons/FORM.gif"
   },
