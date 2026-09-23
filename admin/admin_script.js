@@ -19,12 +19,12 @@ const mainFrame = document.getElementById("mainFrame");
 
 // Define companies (must match forms.js and sheets.js exactly)
 const companies = [
-  "COMMON",
   "B.S.GROUP",
   "R.S.TRADE",
   "NORTHEAST FNB",
   "MEGHA AGRO",
   "PENTAGON",
+  "COMMON",
   "OTHERS",
   "FORMS"
 ];
