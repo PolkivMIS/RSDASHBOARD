@@ -106,7 +106,7 @@ const sheets = {
   },
   delegation: {
     name: "DELEGATION LIST",
-    company: "R.S.TRADE",
+    company: "OTHERS",
     url: "https://docs.google.com/spreadsheets/d/14bpzOMAYcb_NB8OXW305UcJ0JX3_9Y-i3WZu8o3RoIA/edit#gid=0",
     script: "https://script.google.com/u/0/home/projects/1wiSMu-8OA-iFJryCIWs8ACUKs7gQgUsU-fxsztBGTlMQdz7_ZnZale8q/edit",
     icon: "../database/icons/DELEGATION.gif"
