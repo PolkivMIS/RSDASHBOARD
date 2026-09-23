@@ -32,14 +32,14 @@ const sheets = {
     icon: "../database/icons/BILLWISE.gif"
   },
   cashbook_megha: {
-    name: "CASHBOOK (MEGHA)",
+    name: "CASHBOOK",
     company: "MEGHA AGRO",
     url: "https://docs.google.com/spreadsheets/d/1NGGg18H4BwwVIHfx5CwrXIxM37FIbH3V0zZBGflhcvg/edit#gid=1769337254",
     script: "https://script.google.com/u/0/home/projects/17sZOhZsunScsnt-MQXhpIk5xHfv7DptiopybxtGJN6P16gs5I-O0jrfM/edit",
     icon: "../database/icons/PARTNER.gif"
   },
   cn_fms_rs: {
-    name: "CN FMS (R.S.Trade)",
+    name: "CREDIT-NOTE FMS",
     company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/1pbaH69qS30GUSA4PhIwZGQuK5pw1ltZK5xGAg6Il4c0/edit#gid=0",
     script: "https://script.google.com/d/1Bd7qLvxFRluw7UkjBHjpkM5oRNboKwY_HHwywb3ZYdVNCCgwHF1BPqFE/edit",
@@ -87,13 +87,13 @@ const sheets = {
     icon: "../database/icons/DOCUMENT.gif"
   },
   employee_data_bs: {
-    name: "EMPLOYEE DATA (B.S.G)",
+    name: "EMPLOYEE DATA",
     company: "OTHERS",
     url: "https://docs.google.com/spreadsheets/d/1mNCO24HBGjTWtYW43Vf9Nt9yNsANGqgOvtXx9uC2Duo/edit?gid=370286606#gid=370286606",
     icon: "../database/icons/DOCUMENT.gif"
   },
   ne_fnb_expense: {
-    name: "NE FNB EXPENSE DATA",
+    name: "EXPENSE DATA",
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/11py3YTRLSnPnwvQJi9TVi7GGT-jH8LUrV05KuZ4HQh0/edit#gid=0",
     script: "https://script.google.com/u/0/home/projects/create?parent=11py3YTRLSnPnwvQJi9TVi7GGT-jH8LUrV05KuZ4HQh0",
@@ -120,14 +120,14 @@ const sheets = {
     icon: "../database/icons/Goods RS.gif"
   },
   ims_megha: {
-    name: "IMS (MEGHA)",
+    name: "INVENTORY MS)",
     company: "MEGHA AGRO",
     url: "https://docs.google.com/spreadsheets/d/1FaS25RxzPm2iXr_i-ySquYiUXFunX_9yYvTFNYUrZug/edit#gid=1715037745",
     script: "https://script.google.com/u/0/home/projects/1sesUuGGOO9Rc-JOggIrbm5SoM_Nq7RV5j9QQONL3pMRKwqdsK0XHVRGt/edit",
     icon: "../database/icons/INVENTORY.gif"
   },
   ne_ims: {
-    name: "IMS (NE FNB)",
+    name: "INVENTORY MS",
     company: "NORTHEAST FNB",
     url: "https://docs.google.com/spreadsheets/d/15PWG3ICvIYusKA6b_kF8OKxKlMQAFAP6X8sBsmtmrHo/edit?gid=1715037745#gid=1715037745",
     icon: "../database/icons/INVENTORY.gif"
@@ -146,7 +146,7 @@ const sheets = {
     icon: "../database/icons/MACHINARY_PO.gif"
   },
   msl_counter_megha: {
-    name: "MSL COUNTER (MEGHA)",
+    name: "MSL COUNTER",
     company: "MEGHA AGRO",
     url: "https://docs.google.com/spreadsheets/d/1aHDrnPC1Ubqw5plXhmkW_Xcs7aF5eMrcb3q_u88Gi9Q/edit#gid=0",
     script: "https://script.google.com/u/0/home/projects/1WFlF-agA1zwxRtCODijq5ReqSPgbzca8HTgQVmu6U3aZOIWLJNjEBbQL/edit",
