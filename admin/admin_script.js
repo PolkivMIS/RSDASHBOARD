@@ -24,7 +24,8 @@ const companies = [
   "NORTHEAST FNB",
   "MEGHA AGRO",
   "PENTAGON",
-  "OTHERS"
+  "OTHERS",
+  "FORMS"
 ];
 
 // Get role permissions
