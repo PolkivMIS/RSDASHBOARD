@@ -120,7 +120,7 @@ const sheets = {
     icon: "../database/icons/Goods RS.gif"
   },
   ims_megha: {
-    name: "INVENTORY MS)",
+    name: "INVENTORY MS",
     company: "MEGHA AGRO",
     url: "https://docs.google.com/spreadsheets/d/1FaS25RxzPm2iXr_i-ySquYiUXFunX_9yYvTFNYUrZug/edit#gid=1715037745",
     script: "https://script.google.com/u/0/home/projects/1sesUuGGOO9Rc-JOggIrbm5SoM_Nq7RV5j9QQONL3pMRKwqdsK0XHVRGt/edit",
