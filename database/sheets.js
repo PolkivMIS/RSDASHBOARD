@@ -35,21 +35,21 @@ const sheets = {
   },
   sales_master: {
     name: "SALES MASTER",
-    company: "B.S.GROUP",
+    company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/1HFxlrRylkGRfiaNH9hakiZWaOcB8NbJAAkVp7l-8bCc/edit#gid=457050862",
     script: "https://script.google.com/d/1btq2pdj5necXPwKsFCM_Lbc2wWThIU3fkCtWmVdEaiK7w9TxWbtFk-18/edit",
     icon: "../database/icons/SALES.gif"
   },
   collection_data: {
     name: "COLLECTION DATA",
-    company: "B.S.GROUP",
+    company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/13K5MocwlttfQ7ziLHmDNTE32GK6c2DdSL-R92m-s5pY/edit?gid=934331917#gid=934331917",
     script: "https://script.google.com/u/0/home/projects/1s9noHc36-aTp8RlKXCoVbxhC7qIz_q93lH_LghRmZlYKASErYIPn4cQl/edit",
     icon: "../database/icons/COLLECTION.gif"
   },
   travel_expense: {
     name: "TRAVEL EXPENSE",
-    company: "B.S.GROUP",
+    company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/1hzRpwGhPUN96lj_ZVh0S7ymygilcT3aRmu1pXhUdrHY/edit#gid=0",
     script: "https://script.google.com/d/16Vv-yFf5D3ZljkOCNS1lYqpdFlpJScTZOTeVY4i37kUuBSXPOS9ZvBRS/edit",
     icon: "../database/icons/TRAVEL EXPENSE.gif"
@@ -63,14 +63,14 @@ const sheets = {
   },
   shop_in_shop: {
     name: "SHOP-in-SHOP",
-    company: "B.S.GROUP",
+    company: "R.S.TRADE",
     url: "../HTML/shop_in_shop.html",
     script: "https://script.google.com/d/1rKY3V1arEumytaloPjVWsdvyzE7FjZ2Jqr-GQGdFTIPw2zVT8o3yadva/edit",
     icon: "../database/icons/SHOP.gif"
   },
   daily_sales: {
     name: "DAILY SALES (KILLER)",
-    company: "B.S.GROUP",
+    company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/10mSGlLUMTTLEyz9HenfbavVw4tZRIZGjWKxjUya7Z4g/edit#gid=740661783",
     script: "https://script.google.com/d/13Du40rd9uv71FcgdYQc8A-NpQjd2Zk6XPT2xSRodvMOXgOvZbOuKng5G/edit",
     icon: "../database/icons/DAILY_SALE.gif"
@@ -99,7 +99,7 @@ const sheets = {
   
   billwise: {
     name: "BILLWISE REPORT",
-    company: "B.S.GROUP",
+    company: "R.S.TRADE",
     url: "https://docs.google.com/spreadsheets/d/1orbA2EhpfwH1wMFXbKvTaV-GOopDzDcYwPq_43ETVXQ/edit#gid=1970958643",
     script: "https://script.google.com/d/1wFIPMGE8BUzwymQs9JukJJyFjvnn2OxvVX5IWp5CLHC9oQpKkIorNm_A/edit",
     icon: "../database/icons/BILLWISE.gif"
