@@ -24,7 +24,6 @@ const companies = [
   "NORTHEAST FNB",
   "MEGHA AGRO",
   "PENTAGON",
-  "COMMON",
   "OTHERS",
   "FORMS"
 ];
