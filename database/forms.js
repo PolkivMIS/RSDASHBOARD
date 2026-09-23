@@ -7,21 +7,21 @@ const forms = {
     icon: "../database/icons/FORM.gif"
   },
   daily_sales_form: {
-    name: "DAILY SALES Form (KILLER)",
+    name: "DAILY SALES (KILLER)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/1w2haEToALZjeR-UMWx1g7TarW457oDGx9PD4b2BlRCI/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1w2haEToALZjeR-UMWx1g7TarW457oDGx9PD4b2BlRCI/edit",
     icon: "../database/icons/FORM.gif"
   },
   daily_sales_form_pepe: {
-    name: "DAILY SALES Form (PEPE)",
+    name: "DAILY SALES (PEPE)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSdZmYyvj2_O9OglMzMnV6opC5P77opOTYCyW5D3EcZPxCKf3A/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1FAIpQLSdZmYyvj2_O9OglMzMnV6opC5P77opOTYCyW5D3EcZPxCKf3A/edit",
     icon: "../database/icons/FORM.gif"
   },
   daily_sales_form_puma: {
-    name: "DAILY SALES Form (PUMA)",
+    name: "DAILY SALES (PUMA)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSe7biNFzQhi-UlBXDpshJjjCV83vkVVDLTGpJ5l8wAQXPh55w/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1FAIpQLSdZmYyvj2_O9OglMzMnV6opC5P77opOTYCyW5D3EcZPxCKf3A/edit",
@@ -35,21 +35,21 @@ const forms = {
     icon: "../database/icons/FORM.gif"
   },
   gpo_bs_form: {
-    name: "GPO (BS) Form",
+    name: "GPO Form (BS)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/1iZ8dsPOdg7fdd2wiwhR3Js2yBjxew1Q_mDxd0CurU6U/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1iZ8dsPOdg7fdd2wiwhR3Js2yBjxew1Q_mDxd0CurU6U/edit",
     icon: "../database/icons/FORM.gif"
   },
   gpo_rs_form: {
-    name: "GPO (RS) Form",
+    name: "GPO Form (RS)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/1P92DXx3cx58Lcs6uj_halsJMN26Q6_5HIuA4XemxMoY/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1P92DXx3cx58Lcs6uj_halsJMN26Q6_5HIuA4XemxMoY/edit",
     icon: "../database/icons/FORM.gif"
   },
   gpo_ne_form: {
-    name: "GPO (NE FNB) Form",
+    name: "GPO Form (NE FNB)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeJcLDShNid7S-2B-r4X1Ly1SZz3VtAYZCbuE0y1MZmba8pKw/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/174eiE6n6O67skcXMnQD2Q-RzN_NQNoPb98i38hwYoV4/edit",
@@ -91,14 +91,14 @@ const forms = {
     icon: "../database/icons/FORM.gif"
   },
   ne_fnb_expense_form: {
-    name: "NE FNB (EXPENSE Form)",
+    name: "EXPENSE FORM (NE)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/1SCBD2boj3Szn0i9sNynRwY7P5F6BDInno40kKj2ksXs/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1SCBD2boj3Szn0i9sNynRwY7P5F6BDInno40kKj2ksXs/edit",
     icon: "../database/icons/FORM.gif"
   },
   recruitment_form: {
-    name: "RECRUITMENT FORM",
+    name: "RECRUITMENT Form",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfEQJEUwDBQaaHVDW75OGo0nMteUs-bl6Oli26PDJ55N837Tw/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/1FAIpQLSfEQJEUwDBQaaHVDW75OGo0nMteUs-bl6Oli26PDJ55N837Tw/edit",
@@ -112,7 +112,7 @@ const forms = {
     icon: "../database/icons/FORM.gif"
   },
   megha_ims: {
-    name: "IMS FORM",
+    name: "IMS Form (Megha)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfN1DZHLZzGCv5EheKminx4p9lWkVqPSOqMZi9yyWiC1QBb8A/viewform?usp=dialog",
     script: "https://docs.google.com/forms/d/1FAIpQLSfN1DZHLZzGCv5EheKminx4p9lWkVqPSOqMZi9yyWiC1QBb8A/edit",
