@@ -200,7 +200,7 @@ const sheets = {
   p_operation: {
     name: "OPERATION CHECKLIST",
     company: "PENTAGON",
-    url: "https://docs.google.com/spreadsheets/d/1U5htscBkpP4KgBPp5oflWhBqRa9dAFKGsjfkjGkgvmU/edit?gid=1152502169#gid=1152502169",
+    url: "https://docs.google.com/spreadsheets/d/1U5htscBkpP4KgBPp5oflWhBqRa9dAFKGsjfkjGkgvmU/edit?gid=1905609983#gid=1905609983",
     icon: "../database/icons/CHECKLIST.gif"
   },
   p_assigned_task: {
