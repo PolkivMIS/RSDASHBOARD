@@ -49,7 +49,7 @@ const forms = {
     icon: "../database/icons/FORM.gif"
   },
   gpo_ne_form: {
-    name: "GPO Form (NE FNB)",
+    name: "GPO Form (NE)",
     company: "FORMS",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeJcLDShNid7S-2B-r4X1Ly1SZz3VtAYZCbuE0y1MZmba8pKw/viewform?embedded=true",
     script: "https://docs.google.com/forms/d/174eiE6n6O67skcXMnQD2Q-RzN_NQNoPb98i38hwYoV4/edit",
