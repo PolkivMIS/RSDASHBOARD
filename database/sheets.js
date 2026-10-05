@@ -209,6 +209,13 @@ const sheets = {
     script: "https://script.google.com/d/1btq2pdj5necXPwKsFCM_Lbc2wWThIU3fkCtWmVdEaiK7w9TxWbtFk-18/edit",
     icon: "../database/icons/SALES.gif"
   },
+  sales_data: {
+    name: "SALES DATA",
+    company: "NORTHEAST FNB",
+    url: "https://docs.google.com/spreadsheets/d/1gqJMJg_OzezTwxxZLNmzmr_Q9Nwptv5Ps5J4sdpa4Xc/edit?gid=2115768115#gid=2115768115",
+    script: "https://script.google.com/d/1btq2pdj5necXPwKsFCM_Lbc2wWThIU3fkCtWmVdEaiK7w9TxWbtFk-18/edit",
+    icon: "../database/icons/SALES.gif"
+  },
   shop_in_shop: {
     name: "SHOP-in-SHOP",
     company: "R.S.TRADE",
