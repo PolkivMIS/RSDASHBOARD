@@ -31,7 +31,7 @@ const roles = {
     forms: ["leave_form"]
   },
   ne_junior_accountant: {
-    sheets: ["gpo_ne","ne_assigned_task","delegation"],
+    sheets: ["gpo_ne","ne_assigned_task","delegation","document_database"],
     forms: ["leave_form"]
   },
   mis: {
