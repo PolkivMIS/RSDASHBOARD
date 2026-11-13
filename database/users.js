@@ -162,6 +162,20 @@ const users = {
     roleKey: "store_manager",
     assignedTaskGid: "2002242700"
   },
+  campus_roodraksh: {
+    name: "PEPE JEANS - SHILLONG",
+    designation: "STORE MANAGER",
+    pic: "../database/image/PEPE JEANS.jpg",
+    roleKey: "store_manager",
+    assignedTaskGid: "171737753"
+  },
+  techno_roodraksh: {
+    name: "PEPE JEANS - SHILLONG",
+    designation: "STORE MANAGER",
+    pic: "../database/image/PEPE JEANS.jpg",
+    roleKey: "store_manager",
+    assignedTaskGid: "1375145419"
+  },
 
   // Dummy users
   tilak_das: {
