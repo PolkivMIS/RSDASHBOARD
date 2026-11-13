@@ -30,7 +30,9 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
     killer_central_mall: "store345",
     pepe_city_center: "store456",
     pepe_christian_basti: "store567",
-    pepe_shillong: "store678"
+    pepe_shillong: "store678",
+    campus_roodraksh: "store963",
+    techno_roodraksh: "store852"
   };
 
   if (credentials[user] && credentials[user] === pass) {
