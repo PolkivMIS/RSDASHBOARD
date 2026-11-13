@@ -163,16 +163,16 @@ const users = {
     assignedTaskGid: "2002242700"
   },
   campus_roodraksh: {
-    name: "PEPE JEANS - SHILLONG",
+    name: "CAMPUS - ROODRAKSH",
     designation: "STORE MANAGER",
-    pic: "../database/image/PEPE JEANS.jpg",
+    pic: "../database/image/CAMPUS.jpg",
     roleKey: "store_manager",
     assignedTaskGid: "171737753"
   },
   techno_roodraksh: {
-    name: "PEPE JEANS - SHILLONG",
+    name: "TECHNO - ROODRAKSH",
     designation: "STORE MANAGER",
-    pic: "../database/image/PEPE JEANS.jpg",
+    pic: "../database/image/TECHNO.jpg",
     roleKey: "store_manager",
     assignedTaskGid: "1375145419"
   },
