@@ -165,14 +165,14 @@ const users = {
   campus_roodraksh: {
     name: "CAMPUS - ROODRAKSH",
     designation: "STORE MANAGER",
-    pic: "../database/image/CAMPUS.jpg",
+    pic: "../database/image/CAMPUS.jpeg",
     roleKey: "store_manager",
     assignedTaskGid: "171737753"
   },
   techno_roodraksh: {
     name: "TECHNO - ROODRAKSH",
     designation: "STORE MANAGER",
-    pic: "../database/image/TECHNO.jpg",
+    pic: "../database/image/TECHNO.jpeg",
     roleKey: "store_manager",
     assignedTaskGid: "1375145419"
   },
